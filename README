@@ -5,13 +5,20 @@ Version			:		0.0.1
 Description		:		Scripts and tools for making
 					the work under Fluxbox easier
 					and cooler.
-Authors			:		X Epic, QuyFalse
-Contact			:		epic9@post.com
-OS & DESKTOPS		:		Fluxbox, Xfce, Ubuntu
-Thanks to		:		QuyFalse & Boaz Schuster
+Author			:		xepic9@post.com
+OS & Desktops		:		Fluxbox, Xfce, Ubuntu
+Thanks to		:		N/A
 
-Some of the scripts ain't mine and have been written by Quy and Boaz.
-Nevertheless, they're updated and fixed by me mostly. I hope to make
-some improvment and add awesome code-lines to this project.
+These scripts were written in Python under Xubuntu. Most of them have been
+tested on Fluxbox. I have created these code-lines in order to make my
+Fluxbox fitted to my style and taste. However, I have found out that some
+of these ideas fascinated my friend, what brought me to publish them here.
+
+DevilzEpicScript is just a long funny name, it doesn't have any special
+meaning, in case you may wonder.
+
+This project has not been finished yet. There is a lot of stuff to re-write
+and to re-build. I also have many ideas, which I want to apply.
+Nevertheless, it can be done if others come and join.
 
 			[EOF]
